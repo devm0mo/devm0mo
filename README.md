@@ -1,4 +1,4 @@
-Leovegas
-Spelmissbrukare
-Snus
+Leovegas,
+Spelmissbrukare,
+Snus &
 Ladd
